@@ -16,7 +16,7 @@ The system uses a Convolutional Neural Network (CNN) trained on the **MNIST** da
 - 🖼️ Debugging option: Saves segmented digit images for inspection.
 
 ---
-
+```
 ## 🏗️ Project Structure
 ├── main.py # Streamlit web app (GUI and logic) 
 ├── model.py # CNN architecture for digit recognition 
@@ -25,7 +25,7 @@ The system uses a Convolutional Neural Network (CNN) trained on the **MNIST** da
 ├── best_digit_model.pt # Trained CNN model weights 
 ├── debug_chars/ # Saved segmented digits for debugging 
 ├── requirements.txt # Project dependencies └── README.md # This file
-
+```
 
 
 ---
