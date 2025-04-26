@@ -24,7 +24,8 @@ The system uses a Convolutional Neural Network (CNN) trained on the **MNIST** da
 ├── train.py # Model training script with data augmentation 
 ├── best_digit_model.pt # Trained CNN model weights 
 ├── debug_chars/ # Saved segmented digits for debugging 
-├── requirements.txt # Project dependencies └── README.md # This file
+├── requirements.txt # Project dependencies
+└── README.md # This file
 ```
 
 
@@ -86,25 +87,25 @@ The system uses a Convolutional Neural Network (CNN) trained on the **MNIST** da
 
 ## 🖼️ Example Screenshots
 
-### [🚩 Initial State (Before Drawing)](./media/screenshot1.png)
+### [🚩 Initial State (Before Drawing)](.handwritten-math-recognition/media/screenshot1.png)
 
 ---
 
-- ### [✍️ Digits Drawn and Recognized](./media/screenshot2.png)
+- ### [✍️ Digits Drawn and Recognized](.handwritten-math-recognition/media/screenshot2.png)
 
 
 ---
 
 ### ✅ Operation Selected and Result Calculated
-![Result 1](./media/screenshot3.png)
-![Result 2](./media/screenshot4.png)
-![Result 3](./media/screenshot5.png)
-![Result 4](./media/screenshot6.png)
+![Result 1](.handwritten-math-recognition/media/screenshot3.png)
+![Result 2](.handwritten-math-recognition/media/screenshot4.png)
+![Result 3](.handwritten-math-recognition/media/screenshot5.png)
+![Result 4](.handwritten-math-recognition/media/screenshot6.png)
 ---
 
 ## 🎞️ Demo GIF
 
-![Handwritten Calculator Demo](./media/demo.gif)
+![Handwritten Calculator Demo](.handwritten-math-recognition/media/demo.gif)
 
 
 📌 What I Learned
