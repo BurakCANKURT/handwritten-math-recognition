@@ -16,7 +16,7 @@ The system uses a Convolutional Neural Network (CNN) trained on the **MNIST** da
 - 🖼️ Debugging option: Saves segmented digit images for inspection.
 
 ---
-
+```
 ## 🏗️ Project Structure
 ├── main.py # Streamlit web app (GUI and logic) 
 ├── model.py # CNN architecture for digit recognition 
@@ -25,7 +25,7 @@ The system uses a Convolutional Neural Network (CNN) trained on the **MNIST** da
 ├── best_digit_model.pt # Trained CNN model weights 
 ├── debug_chars/ # Saved segmented digits for debugging 
 ├── requirements.txt # Project dependencies └── README.md # This file
-
+```
 
 
 ---
@@ -59,15 +59,15 @@ Clone the repository:
 > git clone https://github.com/yourusername/handwritten-digit-calculator.git
 
 > cd handwritten-digit-calculator
- 
+```
 
 ## Install the required packages:
-
+```
 > pip install -r requirements.txt
+```
 
 
-
-⚙️ How to Use
+## ⚙️ How to Use
 
 1. Train the model (if needed):
 
@@ -86,20 +86,20 @@ Clone the repository:
 ## 🖼️ Example Screenshots
 
 ### 🚩 Initial State (Before Drawing)
-<img src="./media/screenshot1.png" width="700"/>
+![result1](./media/screenshot1.png)
 
 ---
 
 ### ✍️ Digits Drawn and Recognized
-<img src="./media/screenshot2.png" width="700"/>
+![result2](./media/screenshot2.png)
 
 ---
 
 ### ✅ Operation Selected and Result Calculated
-<img src="./media/screenshot3.png" width="700"/>
-<img src="./media/screenshot4.png" width="700"/>
-<img src="./media/screenshot5.png" width="700"/>
-<img src="./media/screenshot6.png" width="700"/>
+![result3](./media/screenshot3.png)
+![result4](./media/screenshot4.png)
+![result5](./media/screenshot5.png)
+![result6](./media/screenshot6.png)
 
 ---
 
