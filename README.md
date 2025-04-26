@@ -16,7 +16,7 @@ The system uses a Convolutional Neural Network (CNN) trained on the **MNIST** da
 - 🖼️ Debugging option: Saves segmented digit images for inspection.
 
 ---
-```
+
 ## 🏗️ Project Structure
 ├── main.py # Streamlit web app (GUI and logic) 
 ├── model.py # CNN architecture for digit recognition 
@@ -24,9 +24,8 @@ The system uses a Convolutional Neural Network (CNN) trained on the **MNIST** da
 ├── train.py # Model training script with data augmentation 
 ├── best_digit_model.pt # Trained CNN model weights 
 ├── debug_chars/ # Saved segmented digits for debugging 
-├── requirements.txt # Project dependencies
-└── README.md # This file
-```
+├── requirements.txt # Project dependencies └── README.md # This file
+
 
 
 ---
@@ -54,14 +53,13 @@ The system uses a Convolutional Neural Network (CNN) trained on the **MNIST** da
 
 ## 📦 Installation
 
-### Clone the repository:
-
+Clone the repository:
 
 ```bash
 > git clone https://github.com/yourusername/handwritten-digit-calculator.git
 
-> cd handwritten-digit-calculator/handwritten-digit-calculator
-```
+> cd handwritten-digit-calculator
+ 
 
 ## Install the required packages:
 
@@ -69,7 +67,7 @@ The system uses a Convolutional Neural Network (CNN) trained on the **MNIST** da
 
 
 
-## ⚙️ How to Use
+⚙️ How to Use
 
 1. Train the model (if needed):
 
@@ -87,20 +85,22 @@ The system uses a Convolutional Neural Network (CNN) trained on the **MNIST** da
 
 ## 🖼️ Example Screenshots
 
-### [🚩 Initial State (Before Drawing)](./media/screenshot1.png)
+### 🚩 Initial State (Before Drawing)
+<img src="./media/screenshot1.png" width="700"/>
 
 ---
 
-- ### [✍️ Digits Drawn and Recognized](./media/screenshot2.png)
-
+### ✍️ Digits Drawn and Recognized
+<img src="./media/screenshot2.png" width="700"/>
 
 ---
 
 ### ✅ Operation Selected and Result Calculated
-![Result 1](./media/screenshot3.png)
-![Result 2](./media/screenshot4.png)
-![Result 3](./media/screenshot5.png)
-![Result 4](./media/screenshot6.png)
+<img src="./media/screenshot3.png" width="700"/>
+<img src="./media/screenshot4.png" width="700"/>
+<img src="./media/screenshot5.png" width="700"/>
+<img src="./media/screenshot6.png" width="700"/>
+
 ---
 
 ## 🎞️ Demo GIF
