@@ -58,7 +58,7 @@ Clone the repository:
 ```bash
 > git clone https://github.com/yourusername/handwritten-digit-calculator.git
 
-> cd handwritten-digit-calculator
+> cd handwritten-digit-calculator/handwritten-digit-calculator
  
 
 ## Install the required packages:
