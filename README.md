@@ -53,13 +53,14 @@ The system uses a Convolutional Neural Network (CNN) trained on the **MNIST** da
 
 ## 📦 Installation
 
-Clone the repository:
+### Clone the repository:
+
 
 ```bash
 > git clone https://github.com/yourusername/handwritten-digit-calculator.git
 
 > cd handwritten-digit-calculator/handwritten-digit-calculator
- 
+```
 
 ## Install the required packages:
 
@@ -67,7 +68,7 @@ Clone the repository:
 
 
 
-⚙️ How to Use
+## ⚙️ How to Use
 
 1. Train the model (if needed):
 
@@ -85,22 +86,20 @@ Clone the repository:
 
 ## 🖼️ Example Screenshots
 
-### 🚩 Initial State (Before Drawing)
-<img src="./media/screenshot1.png" width="700"/>
+### [🚩 Initial State (Before Drawing)](./media/screenshot1.png)
 
 ---
 
-### ✍️ Digits Drawn and Recognized
-<img src="./media/screenshot2.png" width="700"/>
+- ### [✍️ Digits Drawn and Recognized](./media/screenshot2.png)
+
 
 ---
 
 ### ✅ Operation Selected and Result Calculated
-<img src="./media/screenshot3.png" width="700"/>
-<img src="./media/screenshot4.png" width="700"/>
-<img src="./media/screenshot5.png" width="700"/>
-<img src="./media/screenshot6.png" width="700"/>
-
+![Result 1](./media/screenshot3.png)
+![Result 2](./media/screenshot4.png)
+![Result 3](./media/screenshot5.png)
+![Result 4](./media/screenshot6.png)
 ---
 
 ## 🎞️ Demo GIF
