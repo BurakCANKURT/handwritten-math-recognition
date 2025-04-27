@@ -119,4 +119,4 @@ Clone the repository:
 
 🧑‍💻 Developed by Burak CANKURT
 
-LinkedIn --> www.linkedin.com/in/burak-cankurt-545262222
+LinkedIn = www.linkedin.com/in/burak-cankurt-545262222
