@@ -57,6 +57,8 @@ Clone the repository:
 
 ```bash
 > git clone https://github.com/BurakCANKURT/handwritten-digit-calculator.git
+or
+> git clone git@github.com:BurakCANKURT/handwritten-digit-calculator.git
 
 > cd handwritten-digit-calculator
 ```
