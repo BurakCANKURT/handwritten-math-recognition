@@ -58,7 +58,7 @@ Clone the repository:
 ```bash
 > git clone https://github.com/BurakCANKURT/handwritten-math-recognition.git
 
-> cd handwritten-digit-calculator
+> cd handwritten-math-recognition
 ```
 
 ## Install the required packages:
