@@ -56,14 +56,14 @@ The system uses a Convolutional Neural Network (CNN) trained on the **MNIST** da
 Clone the repository:
 
 ```bash
-> git clone https://github.com/BurakCANKURT/handwritten-math-recognition.git
+  git clone https://github.com/BurakCANKURT/handwritten-math-recognition.git
 
-> cd handwritten-math-recognition
+  cd handwritten-math-recognition
 ```
 
 ## Install the required packages:
 ```
-> pip install -r requirements.txt
+  pip install -r requirements.txt
 ```
 
 
